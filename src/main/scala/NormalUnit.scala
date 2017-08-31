@@ -80,7 +80,7 @@ object NormalUnit {
       x.toString + ',' + y.toString
     } catch {
       case ex: Exception => {
-        println("Location in line" + inputLine + "cannot process"); "Null"
+        println("Location in line " + inputLine + " cannot process"); "Null"
       }
     }
 

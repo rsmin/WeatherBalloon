@@ -2,7 +2,7 @@ import java.util.Date
 import scala.util.Random
 import UnitConvert._
 
-/** A weather balloon log data generator
+/** A weather balloon log data generator.
   *
   * @author Xiaodong Meng
   */
