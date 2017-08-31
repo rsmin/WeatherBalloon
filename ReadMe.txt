@@ -1,7 +1,7 @@
 //Weather Balloon
-//Enno Runne, 2017-08-31 
+//Xiaodong Meng, 2017-08-31
 
-//For interview purpose only. The code answers to question on //https://gist.github.com/dbousamra/66cab2034e4f212553fb
+//For interview purpose only. The code answers to question on https://gist.github.com/dbousamra/66cab2034e4f212553fb
 
 //The code is build with SBT using Scala of version 2.12.3. To compile the source code, plase ensure that the newest version of java SDK, SBT and scala are installed on your computer. It also contains a complied jar for running.
 
